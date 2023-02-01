@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **MERN Stack Development**
 - 📫 How to reach me **sandeepsamota039@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NzE9mb74hPJSADoE8xWySEM7bcgkavF0/view?usp=sharing](https://drive.google.com/file/d/1NzE9mb74hPJSADoE8xWySEM7bcgkavF0/view?usp=sharing)
 
 - ⚡ Fun fact **when i heard first time about js and java i was assuming js and java as same language**
 
